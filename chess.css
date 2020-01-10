@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+.body {
+  justify-content: space-evenly;
+}
+
+#grid {
+  margin-left: 25%;
+  border: 1px solid black;
+  width: 656px;
+  height: 656px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.black_box,
+.white_box {
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.black_box {
+  background-color: grey;
+}
+
+.white_box {
+  background-color: white;
+}
+
+.coin {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.power {
+  width: 100%;
+  height: 100%;
+}
