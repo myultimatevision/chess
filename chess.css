@@ -21,7 +21,6 @@ h1 {
   height: 80px;
   width: 80px;
   border: 1px solid black;
-  text-align: center;
 }
 
 .black_box {
@@ -32,13 +31,7 @@ h1 {
   background-color: white;
 }
 
-.coin {
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-}
-
-.power {
+.piece {
   width: 100%;
   height: 100%;
 }
